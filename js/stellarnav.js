@@ -1,3 +1,5 @@
+//Forked from github @ vinnymoreira/stellarnav
+
 
 (function($) {
 
