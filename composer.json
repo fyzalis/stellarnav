@@ -1,0 +1,7 @@
+{
+    "name": "fyzalis/stellarnav",
+    "description": "Jquery nav bar plugin : forked from vinnymoreira/stellarnav",
+    "require": {
+      "components/jquery":"3.2.1"
+    }
+}
